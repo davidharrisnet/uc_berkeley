@@ -1,10 +1,14 @@
 # Coupons Dataset
 
-
+    
 ## Introduction
 
-This is the summary of data exploration contained on the Jupyter Notebook [Prompts](./notebooks/prompt-work.ipynb)
-## Data Cleaning
+This is the summary of data exploration contained on the Jupyter Notebook. 
+1. Guided quesions [5.1 Questions](./notebooks/prompt-work.ipynb)
+1. Independent investigation [Independent](./notebooks/prompt-work-independent.ipynb)
+
+## Guided Questions
+### Data Cleaning
 #### 1. Nan Values
 
  A subset of the 26 columns had Nan values.
@@ -104,6 +108,9 @@ For this analysis ```data[data['car'] != 'do not drive'] # remove 'do not drive'
 
 Sixty-one percent of drivers who do to less than 20 dollar restaurants, more than 4 times a month, and make less than 50K use coupons.
 
+
+---
+
 ## Independent Investigations
 ### Expensive Restaurants
 
@@ -166,7 +173,7 @@ Then by using the pandas crosstab command I was able to render seaborn heatmaps 
 <img src="./notebooks/images/temperature.png" swidth="300" height="300" alt="Alt text description" />
 
 
-<img src="./notebooks/images/female_cofee_friends.png" width="300" height="300" alt="Alt text description" />
+<img src="./notebooks/images/female_coffee_friends.png" width="300" height="300" alt="Alt text description" />
 
 
 
