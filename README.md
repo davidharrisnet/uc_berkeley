@@ -3,12 +3,7 @@
 ## Introduction
 **Will a customer accept the coupon?**
 In this excercise we analysed data from the UCI Machine Learning Repository to determine the circumstances that increase the probability a customer will accept a coupon.
-1. Guided Quesions
-   * Data Cleaning
-       * Nan Values
-       * Empty Values
-       * Duplicates
-   * 
+In the first section,  Questions data cleaning required removing nan Values, then considering empty values and duplicate rows. Then in Directed Analysis, the required set of grouping and filering questions were completed. The second section, Independent Investigations began with filtering on the restaurants20to50 and different groups where the intuition was developed that youger people, 31 or younger with friends seemed more inclined to accept couponts.  Then huntch was then verified emperically by looking at all five coupon categories and doing the same filtering. In all venues, younger people with friends had a higher percentage of acceptance. Then in the last two sections weather and temperature were explored  using first crosstab with seaborn heatmaps, then groupby-mean valuecounts to generate a comtination table.  In both excercises it was clear that warm sunny days have much higher acceptance rates. In a surprise, snowy days were a strong third place.  The conclusion, which should come as no surprise, coupons are accepted more readily on warm sunny days by younger people with friends.  
 
 This is the summary of data exploration contained on the Jupyter Notebook. 
 1. Guided quesions [5.1 Questions](./notebooks/prompt-work.ipynb)
