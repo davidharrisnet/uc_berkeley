@@ -1,7 +1,14 @@
 # Coupons Dataset
 
-
 ## Introduction
+**Will a customer accept the coupon?**
+In this excercise we analysed data from the UCI Machine Learning Repository to determine the circumstances that increase the probability a customer will accept a coupon.
+1. Guided Quesions
+   * Data Cleaning
+       * Nan Values
+       * Empty Values
+       * Duplicates
+   * 
 
 This is the summary of data exploration contained on the Jupyter Notebook. 
 1. Guided quesions [5.1 Questions](./notebooks/prompt-work.ipynb)
