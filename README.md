@@ -12,6 +12,8 @@ Then in the last two sections weather and temperature were explored  using first
 
 The conclusion, which should come as no surprise, coupons are accepted more readily on warm sunny days by younger people with friends.  
 
+---
+
 This is the summary of data exploration contained on the Jupyter Notebook. 
 1. Guided quesions [5.1 Questions](./notebooks/prompt-work.ipynb)
 1. Independent investigation [Independent](./notebooks/prompt-work-independent.ipynb)
